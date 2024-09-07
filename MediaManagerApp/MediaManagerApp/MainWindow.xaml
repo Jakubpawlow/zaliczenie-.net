@@ -1,0 +1,27 @@
+﻿<Window x:Class="MediaManagerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Media List" Height="450" Width="800">
+    <Grid>
+        <ListView ItemsSource="{Binding MediaItems}" SelectedItem="{Binding SelectedMediaItem}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Tytuł" DisplayMemberBinding="{Binding Tytul}" />
+                    <GridViewColumn Header="Reżyser/Autor" DisplayMemberBinding="{Binding RezyserAutor}" />
+                    <GridViewColumn Header="Wydawca/Studio" DisplayMemberBinding="{Binding WydawcaStudio}" />
+                    <GridViewColumn Header="Nośnik" DisplayMemberBinding="{Binding Nosnik}" />
+                    <GridViewColumn Header="Długość" DisplayMemberBinding="{Binding Dlugosc}" />
+                    <GridViewColumn Header="Data Wydania" DisplayMemberBinding="{Binding DataWydania}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top">
+            <Button Content="Dodaj" Command="{Binding AddCommand}" />
+            <Button Content="Edytuj" Command="{Binding EditCommand}" CommandParameter="{Binding SelectedMediaItem}" />
+            <Button Content="Usuń" Command="{Binding DeleteCommand}" CommandParameter="{Binding SelectedMediaItem}" />
+            <Button Content="Importuj" Command="{Binding ImportCommand}" />
+            <Button Content="Eksportuj" Command="{Binding ExportCommand}" />
+        </StackPanel>
+    </Grid>
+</Window>

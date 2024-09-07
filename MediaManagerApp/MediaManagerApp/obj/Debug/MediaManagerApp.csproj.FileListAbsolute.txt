@@ -1,0 +1,14 @@
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\bin\Debug\MediaManagerApp.exe.config
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\bin\Debug\MediaManagerApp.exe
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\bin\Debug\MediaManagerApp.pdb
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MediaManagerApp.csproj.AssemblyReference.cache
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MainWindow.baml
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MainWindow.g.cs
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\App.g.cs
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MediaManagerApp_MarkupCompile.cache
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MediaManagerApp.g.resources
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MediaManagerApp.Properties.Resources.resources
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MediaManagerApp.csproj.GenerateResource.cache
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MediaManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MediaManagerApp.exe
+C:\Users\jakub\Desktop\zaliczenia\Media Manager app\MediaManagerApp\MediaManagerApp\obj\Debug\MediaManagerApp.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Category Name="Samochody Osobowe">
+    <Description>Samochody przeznaczone do użytku osobistego.</Description>
+    <SubCategory Name="Toyota">
+      <Description>Koncern: Toyota, Założenie: 1937, Kraj: Japonia</Description>
+      <Item Name="Corolla" Year="2020" EngineCapacity="1.8L" DriveType="FWD"/>
+      <Item Name="Camry" Year="2019" EngineCapacity="2.5L" DriveType="AWD"/>
+    </SubCategory>
+  </Category>
+  <!-- Dodaj kolejne kategorie -->
+</Data>

@@ -1,0 +1,9 @@
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\bin\Debug\Kalkulator zaliczenie.exe.config
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\bin\Debug\Kalkulator zaliczenie.exe
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\bin\Debug\Kalkulator zaliczenie.pdb
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\obj\Debug\Kalkulator zaliczenie.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\obj\Debug\Kalkulator_zaliczenie.Properties.Resources.resources
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\obj\Debug\Kalkulator zaliczenie.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\obj\Debug\Kalkulator zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\obj\Debug\Kalkulator zaliczenie.exe
+C:\Users\jakub\source\repos\Kalkulator zaliczenie\Kalkulator zaliczenie\obj\Debug\Kalkulator zaliczenie.pdb
